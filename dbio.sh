@@ -6,6 +6,7 @@ remotely done the changes
 biodata
 self hosted k8s cluster
 docker compose file
+new linux command file is added 
 
 
 
